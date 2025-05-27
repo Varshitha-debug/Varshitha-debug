@@ -20,7 +20,7 @@
 🧠 Logical Thinking & Clean Code  
 
 ## 📫 Let's Connect!
-🔗 [LinkedIn](https://www.linkedin.com/in/varshitha-kodamanchili/))  
+🔗 ([LinkedIn](https://www.linkedin.com/in/varshitha-kodamanchili/))  
 ✉️ Email: varshitha3kodamanchili@gmail.com 
 🌐 GitHub:([https://github.com/Varshitha-debug](https://github.com/Varshitha-debug))
 
