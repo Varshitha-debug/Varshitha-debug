@@ -20,9 +20,9 @@
 🧠 Logical Thinking & Clean Code  
 
 ## 📫 Let's Connect!
-🔗 [LinkedIn](#) (Add your actual link)  
-✉️ Email: your-email@example.com (Replace with your email)  
-🌐 GitHub: [github.com/Varshitha-debug](https://github.com/Varshitha-debug)
+🔗 [LinkedIn](https://www.linkedin.com/in/varshitha-kodamanchili/))  
+✉️ Email: varshitha3kodamanchili@gmail.com 
+🌐 GitHub:([https://github.com/Varshitha-debug](https://github.com/Varshitha-debug))
 
 <!---
 Varshitha-debug/Varshitha-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
